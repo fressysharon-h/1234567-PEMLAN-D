@@ -2,7 +2,7 @@ import java.util.Arrays;
 import java.util.Collections;
 
 
-public class DataFutsal {
+public class DataFutsal1a {
 
 
     public static void main(String[] args) {
